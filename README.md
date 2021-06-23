@@ -1,6 +1,8 @@
 # E-Commerce-Backend
 
+Internet retail, also known as e-commerce, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
 
+We were tasked to build the back end for an e-commerce site by modifying starter code. We will configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 # User Story
 
@@ -46,4 +48,8 @@ Angelica Sargent
 
 # Gif
 
-# Video
+![Gif](Assets/backendgif.gif)
+
+# Link
+
+Take a look at this [link](https://drive.google.com/file/d/1zGenvFPdj3X_PaT62s3B7g9I2yBzj0B4/view?usp=sharing)!
