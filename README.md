@@ -14,9 +14,11 @@ SO THAT my company can compete with other e-commerce companies
 
 # Description
 
+An e-commerce backend can help managers and stores function appropriately, by ensuring that they have all of the appropriate items in stock. In addition to adding and removing items to maintain organization.
+
 # Considerations
 
-# Updates
+As I worked through this assignment, I ran into installation issues, in addition to ensuring that mysql's databases and servers were connected. Running the api through Insomnia was also a challenge to ensure that the url was correct each time you GET/POST/PUT/DELETE, etc.
 
 # Acceptance Criteria
 
